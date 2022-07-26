@@ -1,0 +1,11 @@
+{
+"name": "Week 1",
+"version": "1.0.0",
+"bin":{
+"lab-one": "./lab-one.js",
+"lab-two": "./lab-two.js",
+"lab-two": "./lab-three.js",
+"lab-two": "./lab-four.js",
+}
+
+} 
